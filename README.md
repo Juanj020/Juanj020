@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <iframe src="https://giphy.com/embed/hrdX1BsUBq7DkGJCCd" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NoPotSer-hrdX1BsUBq7DkGJCCd">via GIPHY</a></p>
+    <p> <img src="https://giphy.com/embed/hrdX1BsUBq7DkGJCCd" width=200></p>
 </div>
 <h1 align="center">Hi 👋, I'm Juan José Lizarazo </h1>
 <h3 align="center"> A back-end developer from Colombia, currently I am a junior back-end developer in emphasis in Node.js and studying Laravel, I hold soft
