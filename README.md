@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="200">
+    <img src="https://giphy.com/embed/hrdX1BsUBq7DkGJCCd" width="200">
 </div>
 <h1 align="center">Hi 👋, I'm Juan José Lizarazo </h1>
 <h3 align="center"> A back-end developer from Colombia, currently I am a junior back-end developer in emphasis in Node.js and studying Laravel, I hold soft
