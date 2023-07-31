@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <p> <img src="https://giphy.com/embed/hrdX1BsUBq7DkGJCCd" width=200></p>
+    <p> <img src="https://www.ipm.com.br/wp-content/uploads/2021/03/26-02-imagem-blog-2.png" width=500></p>
 </div>
 <h1 align="center">Hi 👋, I'm Juan José Lizarazo </h1>
 <h3 align="center"> A back-end developer from Colombia, currently I am a junior back-end developer in emphasis in Node.js and studying Laravel, I hold soft
